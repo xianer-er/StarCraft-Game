@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Game/AllBullet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Game/Begin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Game/Bomb.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Game/Boss.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Game/Cake.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Game/Enemy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Game/FlyingsObject.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Game/Over.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Game/Plane.java" charset="GBK" />
+  </component>
+</project>
